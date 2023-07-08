@@ -65,6 +65,10 @@ h6 {
   visibility: visible;
   opacity: 1;
 }
+.logo-image {
+  width: 150px; /* Customize the width as desired */
+  height: auto; /* Adjust the height proportionally */
+}
 
 /*--------------------------------------------------------------
 # Header
